@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ferluminax/learn-github/issues"
   },
-  "homepage": "https://github.com/ferluminax/learn-github#readme"
+  "homepage": "https://github.com/ferluminax/learn-github#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
