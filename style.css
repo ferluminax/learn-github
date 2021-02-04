@@ -6,6 +6,8 @@ body {
     letter-spacing: .5em;
     top: 15%;
     background: linear-gradient(to right, blue , black); /* Standard syntax */
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1 {
